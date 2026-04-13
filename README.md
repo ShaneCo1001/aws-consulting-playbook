@@ -2,7 +2,7 @@
 
 A complete framework for delivering AWS cloud consulting engagements — from first client conversation to final delivery.
 
-Built by Shane | AWS Solutions Architect (SAA)
+Built by AWS Solutions Architect (SAA)
 
 ---
 
@@ -43,7 +43,7 @@ Every engagement follows this pattern:
 
 A complete framework for delivering AWS cloud consulting engagements — from first client conversation to final delivery.
 
-Built by Shane Co | AWS Solutions Architect (SAA)
+Built by AWS Solutions Architect (SAA)
 
 ---
 
@@ -109,9 +109,6 @@ Every engagement follows this pattern:
 ## The Fantasy Sports Helper — Reference Project
 
 A 23-service AWS application built to demonstrate every major AWS concept:
-
-- **Live app:** https://main.dmi0p586n0exm.amplifyapp.com
-- **GitHub:** https://github.com/ShaneCo1001/Fantasy-Sports-Assistant
 
 ### Services Used
 DynamoDB · Lambda · API Gateway · S3 · CloudFront · Cognito · Bedrock · SNS · SQS · EventBridge · Amplify · IAM · CloudWatch · CloudFormation · VPC · RDS · ElastiCache · ECS · ECR · Fargate · CodePipeline · CodeBuild · NAT Gateway
